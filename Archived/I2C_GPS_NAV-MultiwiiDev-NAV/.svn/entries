@@ -1,0 +1,71 @@
+10
+
+dir
+47
+http://i2c-gps-nav.googlecode.com/svn/trunk/I2C_GPS_NAV/Archived/I2C_GPS_NAV-MultiwiiDev-NAV
+http://i2c-gps-nav.googlecode.com/svn
+
+
+
+2012-07-13T12:15:46.658885Z
+38
+eosbandi@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1411d7a8-fb01-214e-2ede-d4ed27af6bd3
+
+Arduino-PID-libs
+dir
+
+Arduino-twi-lib-patch
+dir
+
+Use latest MultiWii Dev code.txt
+file
+
+
+
+
+2012-08-30T12:10:38.502918Z
+d41d8cd98f00b204e9800998ecf8427e
+2012-06-26T22:55:24.542234Z
+34
+eosbandi@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+I2C_GPS_NAV
+dir
+

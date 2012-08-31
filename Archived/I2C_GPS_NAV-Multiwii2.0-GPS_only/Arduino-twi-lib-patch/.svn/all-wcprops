@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/37/trunk/I2C_GPS_NAV/Archived/I2C_GPS_NAV-Multiwii2.0-GPS_only/Arduino-twi-lib-patch
+END
+twi.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/37/trunk/I2C_GPS_NAV/Archived/I2C_GPS_NAV-Multiwii2.0-GPS_only/Arduino-twi-lib-patch/twi.c
+END
+twi.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/37/trunk/I2C_GPS_NAV/Archived/I2C_GPS_NAV-Multiwii2.0-GPS_only/Arduino-twi-lib-patch/twi.h
+END

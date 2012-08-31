@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/38/trunk/I2C_GPS_NAV/Archived/I2C_GPS_NAV-MultiwiiDev-NAV/I2C_GPS_NAV
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/38/trunk/I2C_GPS_NAV/Archived/I2C_GPS_NAV-MultiwiiDev-NAV/I2C_GPS_NAV/config.h
+END
+registers.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/38/trunk/I2C_GPS_NAV/Archived/I2C_GPS_NAV-MultiwiiDev-NAV/I2C_GPS_NAV/registers.h
+END
+I2C_GPS_NAV.ino
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/38/trunk/I2C_GPS_NAV/Archived/I2C_GPS_NAV-MultiwiiDev-NAV/I2C_GPS_NAV/I2C_GPS_NAV.ino
+END
