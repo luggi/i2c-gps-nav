@@ -28,7 +28,6 @@
 #include "PIDCtrl.h"
 #include "PICtrl.h"
 #include "LeadFilter.h"
-#include "Sonar.h"
 
 
 #include "registers.h"                                                    //Register definitions
